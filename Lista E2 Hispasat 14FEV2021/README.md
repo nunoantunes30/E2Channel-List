@@ -1,8 +1,84 @@
- ✔️  TP 4152000 Symbol Rate 2127000
+## Portugal & Panetelio 
 
- ✔️  TP 4192000 Symbol Rate 2644000
 
- ✔️  TP  Symbol Rate 
+
+ ✔️  TP 30.0W Hispasat 30W-5/30W-6 Symbol Rate 1
+
+ ✔️  TP 10730000 Symbol Rate 27500000
+
+ ✔️  TP 10770000 Symbol Rate 30000000
+
+ ✔️  TP 10890000 Symbol Rate 27500000
+
+ ✔️  TP 10917000 Symbol Rate 7500000
+
+ ✔️  TP 10922000 Symbol Rate 1667000
+
+ ✔️  TP 10930000 Symbol Rate 30000000
+
+ ✔️  TP 11228000 Symbol Rate 6916000
+
+ ✔️  TP 11302000 Symbol Rate 30000000
+
+ ✔️  TP 11330000 Symbol Rate 9140000
+
+ ✔️  TP 11382000 Symbol Rate 30000000
+
+ ✔️  TP 11422000 Symbol Rate 5000000
+
+ ✔️  TP 11437000 Symbol Rate 4592000
+
+ ✔️  TP 11491000 Symbol Rate 7522000
+
+ ✔️  TP 11496000 Symbol Rate 7884000
+
+ ✔️  TP 11510000 Symbol Rate 10000000
+
+ ✔️  TP 11695000 Symbol Rate 185000
+
+ ✔️  TP 11798000 Symbol Rate 1080000
+
+ ✔️  TP 11884000 Symbol Rate 27500000
+
+ ✔️  TP 12052000 Symbol Rate 27500000
+
+ ✔️  TP 12052000 Symbol Rate 27500000
+
+ ✔️  TP 12076000 Symbol Rate 4000000
+
+ ✔️  TP 12092000 Symbol Rate 30000000
+
+ ✔️  TP 12108000 Symbol Rate 4190000
+
+ ✔️  TP 12130000 Symbol Rate 27500000
+
+ ✔️  TP 12132000 Symbol Rate 27500000
+
+ ✔️  TP 12132000 Symbol Rate 28800000
+
+ ✔️  TP 12169000 Symbol Rate 27500000
+
+ ✔️  TP 12207000 Symbol Rate 27500000
+
+ ✔️  TP 12246000 Symbol Rate 27500000
+
+ ✔️  TP 12284000 Symbol Rate 27500000
+
+ ✔️  TP 12360000 Symbol Rate 27500000
+
+ ✔️  TP 12399000 Symbol Rate 27500000
+
+ ✔️  TP 12437000 Symbol Rate 27500000
+
+ ✔️  TP 12476000 Symbol Rate 27500000
+
+ ✔️  TP 12519000 Symbol Rate 1481000
+
+ ✔️  TP 12563000 Symbol Rate 4684000
+ 
+
+
+## Other TP 
 
  ✔️  TP 139.0W C-band AMC 8 Symbol Rate 1
 
@@ -2688,83 +2764,7 @@
 
  
 
- ## Portugal & Panetelio 
-
-
-
- ✔️  TP 30.0W Hispasat 30W-5/30W-6 Symbol Rate 1
-
- ✔️  TP 10730000 Symbol Rate 27500000
-
- ✔️  TP 10770000 Symbol Rate 30000000
-
- ✔️  TP 10890000 Symbol Rate 27500000
-
- ✔️  TP 10917000 Symbol Rate 7500000
-
- ✔️  TP 10922000 Symbol Rate 1667000
-
- ✔️  TP 10930000 Symbol Rate 30000000
-
- ✔️  TP 11228000 Symbol Rate 6916000
-
- ✔️  TP 11302000 Symbol Rate 30000000
-
- ✔️  TP 11330000 Symbol Rate 9140000
-
- ✔️  TP 11382000 Symbol Rate 30000000
-
- ✔️  TP 11422000 Symbol Rate 5000000
-
- ✔️  TP 11437000 Symbol Rate 4592000
-
- ✔️  TP 11491000 Symbol Rate 7522000
-
- ✔️  TP 11496000 Symbol Rate 7884000
-
- ✔️  TP 11510000 Symbol Rate 10000000
-
- ✔️  TP 11695000 Symbol Rate 185000
-
- ✔️  TP 11798000 Symbol Rate 1080000
-
- ✔️  TP 11884000 Symbol Rate 27500000
-
- ✔️  TP 12052000 Symbol Rate 27500000
-
- ✔️  TP 12052000 Symbol Rate 27500000
-
- ✔️  TP 12076000 Symbol Rate 4000000
-
- ✔️  TP 12092000 Symbol Rate 30000000
-
- ✔️  TP 12108000 Symbol Rate 4190000
-
- ✔️  TP 12130000 Symbol Rate 27500000
-
- ✔️  TP 12132000 Symbol Rate 27500000
-
- ✔️  TP 12132000 Symbol Rate 28800000
-
- ✔️  TP 12169000 Symbol Rate 27500000
-
- ✔️  TP 12207000 Symbol Rate 27500000
-
- ✔️  TP 12246000 Symbol Rate 27500000
-
- ✔️  TP 12284000 Symbol Rate 27500000
-
- ✔️  TP 12360000 Symbol Rate 27500000
-
- ✔️  TP 12399000 Symbol Rate 27500000
-
- ✔️  TP 12437000 Symbol Rate 27500000
-
- ✔️  TP 12476000 Symbol Rate 27500000
-
- ✔️  TP 12519000 Symbol Rate 1481000
-
- ✔️  TP 12563000 Symbol Rate 4684000
+ 
 
  ✔️  TP  Symbol Rate 
 
